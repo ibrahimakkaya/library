@@ -7,5 +7,5 @@
   </kbd>
 </div>
 
-### Demo: https://ibrahimakkaya.github.io/registration-page/
+### Demo: https://ibrahimakkaya.github.io/library/
 
